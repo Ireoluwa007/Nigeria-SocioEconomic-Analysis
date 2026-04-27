@@ -2,7 +2,7 @@
 Evaluating the Impact of Nigeria’s Structural Economy on Human Development (2017–2025)
 
 
-![Dashboard Preview](Images/Dashboard Screenshot.jpg)
+<img src="Images/Dashboard%20Screenshot.jpg" width="700">
 
 Summary
 
@@ -11,11 +11,11 @@ The dashboard analyzes the intersection of human capital, infrastructure, and ma
 
 Project Workflow
 
-Step 1: Data Acquisition: Sourced multi-sectoral data from the NBS (Labor), CBN (Inflation), and the World Bank (Health/Infrastructure) to create a holistic view of the Nigerian economy.
+Step 1: Data Acquisition: Sourced multi-sectoral data from the NBS, WHO, and the World Bank to create a holistic view of the Nigerian economy.
 
-Step 2: Data Cleaning & Transformation (Power Query): Standardized date formats across different datasets, integrated disparate datasets
+Step 2: Data Cleaning & Transformation (Power Query): Standardized date formats across different datasets, integrated disparate datasets.
 
-Step 3: Modeling & DAX: Developed custom DAX measures to handle complex socio-economic trends and ensure the visuals remained dynamic
+Step 3: Modeling & DAX: Developed custom DAX measures to handle complex socio-economic trends and ensure the visuals remained dynamic.
 
 Step 4: Visualization: Applied a customized Nigeria-centric palette (#008751 for Green, #605E5C for medium-dark Grey ) and the Nigerian flag as a background to align with professional policy-briefing standards. 
 
@@ -27,9 +27,9 @@ Key Insights
 
 •	The data shows that ~ 63% of our adults are literate, yet the majority remain in the informal sector, showing that literacy alone is not sufficient to create a productive and industrialized economy.
 
-•	The UHC index of 48 shows and 0.45 doctor to patient ratio shows that even if people are educated, they are physically vulnerable, which will affect overall productivity
+•	The UHC index of 48 shows and 0.45 doctor to patient ratio shows that even if people are educated, they are physically vulnerable, which will affect overall productivity.
 
-•	The Inflation and poverty rate in Nigeria has a highly positive relation(causality). With increasing prices, the volume of goods an amount of money can buy is consistently reducing
+•	The Inflation and poverty rate in Nigeria has a highly positive relation(causality). With increasing prices, the volume of goods an amount of money can buy is consistently reducing.
 
 Data Sources
 
