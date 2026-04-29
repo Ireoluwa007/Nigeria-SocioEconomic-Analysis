@@ -4,12 +4,12 @@ Evaluating the Impact of Nigeria’s Structural Economy on Human Development (20
 
 <img src="Images/Dashboard%20Screenshot.jpg" width="700">
 
-Summary
+## Summary
 
 This project evaluates the structural health of the Nigerian economy and the effects of recent macroeconomic gains on the average Nigerian. 
 The dashboard analyzes the intersection of human capital, infrastructure, and macro-economic stability.
 
-Project Workflow
+## Project Workflow
 
 Step 1: Data Acquisition: Sourced multi-sectoral data from the NBS, WHO, and the World Bank to create a holistic view of the Nigerian economy.
 
@@ -19,7 +19,7 @@ Step 3: Modeling & DAX: Developed custom DAX measures to handle complex socio-ec
 
 Step 4: Visualization: Applied a customized Nigeria-centric palette (#008751 for Green, #605E5C for medium-dark Grey ) and the Nigerian flag as a background to align with professional policy-briefing standards. 
 
-Key Insights
+## Key Insights
 
 •	The huge dip in the unemployment rates (2022), resulted from a change in the unemployment measurement method by NBS to match the new global ILO guidelines. After 2023, the numbers show a continuous downward trend in both Youth and Total Unemployment.
 
@@ -31,7 +31,7 @@ Key Insights
 
 •	The Inflation and poverty rate in Nigeria has a highly positive relation(causality). With increasing prices, the volume of goods an amount of money can buy is consistently reducing.
 
-Data Sources
+## Data Sources
 
 Labour, Inflation & Poverty Statistics: National Bureau of Statistics (NBS) Nigeria.
 
