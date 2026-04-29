@@ -21,15 +21,15 @@ Step 4: Visualization: Applied a customized Nigeria-centric palette (#008751 for
 
 ## Key Insights
 
-•	The huge dip in the unemployment rates (2022), resulted from a change in the unemployment measurement method by NBS to match the new global ILO guidelines. After 2023, the numbers show a continuous downward trend in both Youth and Total Unemployment.
+- •	The huge dip in the unemployment rates (2022), resulted from a change in the unemployment measurement method by NBS to match the new global ILO guidelines. After 2023, the numbers show a continuous downward trend in both Youth and Total Unemployment.
 
-•	The 38.8% electricity gap represents about 86 million Nigerians without access to power and even the 62.2% of those with electricity access, do not enjoy stable and consistent electricity supply.
+- •	The 38.8% electricity gap represents about 86 million Nigerians without access to power and even the 62.2% of those with electricity access, do not enjoy stable and consistent electricity supply.
 
-•	The data shows that ~ 63% of our adults are literate, yet the majority remain in the informal sector, showing that literacy alone is not sufficient to create a productive and industrialized economy.
+- •	The data shows that ~ 63% of our adults are literate, yet the majority remain in the informal sector, showing that literacy alone is not sufficient to create a productive and industrialized economy.
 
-•	The UHC index of 48 shows and 0.45 doctor to patient ratio shows that even if people are educated, they are physically vulnerable, which will affect overall productivity.
+- •	The UHC index of 48 shows and 0.45 doctor to patient ratio shows that even if people are educated, they are physically vulnerable, which will affect overall productivity.
 
-•	The Inflation and poverty rate in Nigeria has a highly positive relation(causality). With increasing prices, the volume of goods an amount of money can buy is consistently reducing.
+- •	The Inflation and poverty rate in Nigeria has a highly positive relation(causality). With increasing prices, the volume of goods an amount of money can buy is consistently reducing.
 
 ## Data Sources
 
