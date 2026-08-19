@@ -2,12 +2,12 @@
 Evaluating the Impact of Nigeria’s Structural Economy on Human Development (2017–2025)
 
 
-<img src="Images/Dashboard%20Screenshot.jpg" width="700">
+<img src="Images/Nigeria%20SocioEconomic%20Analysis%20(Page1).png" width="700">
 
 ## Summary
 
 This project evaluates the structural health of the Nigerian economy and the effects of recent macroeconomic gains on the average Nigerian. 
-The dashboard analyzes the intersection of human capital, infrastructure, and macro-economic stability.
+The dashboard analyzes the intersection of human capital (education and healthcare), infrastructure, and macro-economic stability.
 
 ## Project Workflow
 
