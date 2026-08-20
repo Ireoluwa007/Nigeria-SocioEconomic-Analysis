@@ -12,18 +12,9 @@ The dashboard analyzes the intersection of human capital (education and healthca
 ## Project Workflow
 
 Step 1: Data Acquisition: Sourced multi-sectoral data from the NBS, WHO, and the World Bank to create a holistic view of the Nigerian economy.
+(Download the datasets from the files uploaded)
 
-<details>
-<summary><b>Click to expand: Download Project Datasets</b></summary>
-
-<br>
-
-* 📊 **Dataset 1:** [Nigeria Economic & Education Data 2017–2026](./Data/Nigeria%20Economic%20and%20Education%20Data%202017-2026%20V2%20(2).xlsx)
-* 📈 **Dataset 2:** [Nigeria Economic Indicators 2017–2025](./Data/Nigeria_Economic_Indicators_2017-2025_Updated%20(1).xlsx)
-
-</details>
-
-Step 2: Data Cleaning & Transformation (Power Query): The figures used in the datasets, where handpicked from the sites of the earlier listed organizations leaving little to be done concerning cleaning .
+Step 2: Data Cleaning & Transformation: Data was extracted from the earlier stated sources and cross-referenced to ensure metric alignment based on matching timelines, then consolidated into a unified master dataset in Excel before staging into Power Query.
 
 Step 3: Modeling & DAX: Developed a custom DAX measure to handle the Electricity Access chart visuals and ensure it remained dynamic.
 
@@ -49,3 +40,6 @@ Step 4: Visualization: Applied a customized Nigeria-centric palette (#008751 for
 - The UHC index of 48 shows and 0.45 doctor to patient ratio shows that even if people are educated, they are physically vulnerable, which will affect overall productivity.
 
 - The Inflation and poverty rate in Nigeria show a highly positive relation. With increasing prices, the volume of goods an amount of money can buy is consistently reducing, further expanding lack and want.
+
+## Recommendations
+
