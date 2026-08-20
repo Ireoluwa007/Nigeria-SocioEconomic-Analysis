@@ -13,29 +13,39 @@ The dashboard analyzes the intersection of human capital (education and healthca
 
 Step 1: Data Acquisition: Sourced multi-sectoral data from the NBS, WHO, and the World Bank to create a holistic view of the Nigerian economy.
 
-Step 2: Data Cleaning & Transformation (Power Query): Standardized date formats across different datasets, integrated disparate datasets.
+<details>
+<summary><b>Click to expand and download project datasets</b></summary>
 
-Step 3: Modeling & DAX: Developed custom DAX measures to handle complex socio-economic trends and ensure the visuals remained dynamic.
+<br>
 
-Step 4: Visualization: Applied a customized Nigeria-centric palette (#008751 for Green, #605E5C for medium-dark Grey ) and the Nigerian flag as a background to align with professional policy-briefing standards. 
+* 📊 **Dataset 1:** [Nigeria Economic & Education Data 2017–2026](Data/Nigeria%20Economic%20and%20Education%20Data%202017-2026%20V2%20(2).xlsx?raw=true)
+* 📈 **Dataset 2:** [Nigeria Economic Indicators 2017–2025](Data/Nigeria_Economic_Indicators_2017-2025_Updated%20(1).xlsx?raw=true)
+
+</details>
+
+Step 2: Data Cleaning & Transformation (Power Query): The figures used in the datasets, where handpicked from the sites of the earlier listed organizations leaving little to be done concerning cleaning .
+
+Step 3: Modeling & DAX: Developed a custom DAX measure to handle the Electricity Access chart visuals and ensure it remained dynamic.
+
+<details>
+<summary><b>Click to view the Electricity Gap DAX measure</b></summary>
+
+<br>
+
+Electricity Gap = 100 - MAX(Nigeria_Development_Indicators_[Electricity Access(%)])
+
+</details>
+
+Step 4: Visualization: Applied a customized Nigeria-centric palette (#008751 for Green, #605E5C for medium-dark Grey) and the Nigerian flag as a background to increase aesthetic appeal. 
 
 ## Key Insights
 
-- The huge dip in the unemployment rates (2022), resulted from a change in the unemployment measurement method by NBS to match the new global ILO guidelines. After 2023, the numbers show a continuous downward trend in both Youth and Total Unemployment.
+- The huge dip in the unemployment rates (2022), resulted from a change in the unemployment measurement method by NBS to match the new global International Labour Organisation (ILO) guidelines. After 2023, the numbers show a continuous downward trend in both Youth and Total Unemployment.
 
-- The 38.8% electricity gap represents about 86 million Nigerians without access to power and even the 62.2% of those with electricity access, do not enjoy stable and consistent electricity supply.
+- The 38.8% electricity gap represents about 86 million Nigerians without access to power. However, even those with electricity access, do not enjoy stable and consistent electricity supply.
 
-- The data shows that ~ 63% of our adults are literate, yet the majority remain in the informal sector, showing that literacy alone is not sufficient to create a productive and industrialized economy.
+- The data shows that ~ 63% of our adults are literate, yet the majority remain in the informal sector, showing that literacy alone is not sufficient to create a productive and industrialized economy, as many of the formal sources of employment (e.g. banking, telecommunication, technology) lack the capacity to absorbed the vast size of the unemployed population.
 
 - The UHC index of 48 shows and 0.45 doctor to patient ratio shows that even if people are educated, they are physically vulnerable, which will affect overall productivity.
 
-- The Inflation and poverty rate in Nigeria has a highly positive relation(causality). With increasing prices, the volume of goods an amount of money can buy is consistently reducing.
-
-## Data Sources
-
-Labour, Inflation & Poverty Statistics: National Bureau of Statistics (NBS) Nigeria.
-
-Electricity Access and Literacy Rates: World Bank Open Data.
-
-Health Indicators: World Health Organization (WHO) Global Health Observatory.
-
+- The Inflation and poverty rate in Nigeria show a highly positive relation. With increasing prices, the volume of goods an amount of money can buy is consistently reducing, further expanding lack and want.
