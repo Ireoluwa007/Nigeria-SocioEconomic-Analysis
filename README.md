@@ -14,12 +14,12 @@ The dashboard analyzes the intersection of human capital (education and healthca
 Step 1: Data Acquisition: Sourced multi-sectoral data from the NBS, WHO, and the World Bank to create a holistic view of the Nigerian economy.
 
 <details>
-<summary><b>Click to expand and download project datasets</b></summary>
+<summary><b>Click to expand: Download Project Datasets</b></summary>
 
 <br>
 
-* 📊 **Dataset 1:** [Nigeria Economic & Education Data 2017–2026](Data/Nigeria%20Economic%20and%20Education%20Data%202017-2026%20V2%20(2).xlsx?raw=true)
-* 📈 **Dataset 2:** [Nigeria Economic Indicators 2017–2025](Data/Nigeria_Economic_Indicators_2017-2025_Updated%20(1).xlsx?raw=true)
+* 📊 **Dataset 1:** [Nigeria Economic & Education Data 2017–2026](./Data/Nigeria%20Economic%20and%20Education%20Data%202017-2026%20V2%20(2).xlsx)
+* 📈 **Dataset 2:** [Nigeria Economic Indicators 2017–2025](./Data/Nigeria_Economic_Indicators_2017-2025_Updated%20(1).xlsx)
 
 </details>
 
